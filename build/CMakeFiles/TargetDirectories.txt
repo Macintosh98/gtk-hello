@@ -1,0 +1,7 @@
+/home/abhishek/projects/hello-again/build/CMakeFiles/install.dir
+/home/abhishek/projects/hello-again/build/CMakeFiles/list_install_components.dir
+/home/abhishek/projects/hello-again/build/CMakeFiles/rebuild_cache.dir
+/home/abhishek/projects/hello-again/build/CMakeFiles/com.github.Macintosh98.gtk-hello.dir
+/home/abhishek/projects/hello-again/build/CMakeFiles/edit_cache.dir
+/home/abhishek/projects/hello-again/build/CMakeFiles/install/strip.dir
+/home/abhishek/projects/hello-again/build/CMakeFiles/install/local.dir

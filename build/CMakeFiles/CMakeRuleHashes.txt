@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+efb7faab5e0b15a7b548d231bc11b78a com.github.Macintosh98.gtk-hello_valac.stamp
+246890f15dc1907f9e1629375c1fc56d src/hello-again.c
